@@ -15,7 +15,7 @@ namespace Sorteio
         public main()
         {
             InitializeComponent();
-            CarregarNomes();
+            //CarregarNomes();
         }
 
         private void main_DoubleClick(object sender, EventArgs e)
